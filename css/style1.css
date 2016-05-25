@@ -1,5 +1,7 @@
 .discgolf{
   color:blue;
+  margin-top: 10px;
+  margin-bottom: 200px;
 }
 .discs{
   font-style: italic;
@@ -12,14 +14,20 @@
 }
 .baseball{
   color:red;
+  margin-top: 10px;
+  margin-bottom: 200px;
 }
 .computergames{
   color: green;
   font-family: Helvetica;
+  margin-top: 10px;
+  margin-bottom: 200px;
 }
 .aboutme{
   color:orange;
   font-family:Arial, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 200px;
 }
 
 .normal{
