@@ -1,0 +1,28 @@
+.discgolf{
+  color:blue;
+}
+.discs{
+  font-style: italic;
+}
+.courses{
+  font-weight: bold;
+}
+.technique{
+  font-family: Courier;
+}
+.baseball{
+  color:red;
+}
+.computergames{
+  color: green;
+  font-family: Helvetica;
+}
+.aboutme{
+  color:orange;
+  font-family:Arial, sans-serif;
+}
+
+.normal{
+  color:black;
+  font-family: Times;
+}
